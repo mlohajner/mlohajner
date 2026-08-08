@@ -43,7 +43,7 @@ The following repositories are original tools designed to function as reference 
 **A local Markdown viewer for Linux with zero Electron, zero servers, and no bloated dependencies - just: Pandoc, Bash, and a browser.**
 * **Template:** Ultra-lightweight desktop tooling, utilizing Bash as the structural glue to pipeline native system packages.
 
-### 🖥️ [terminal-idle](https://github.com/mlohajner/terminal-idle) | *C*
+### 🖥️ [terminal-idle](https://github.com/mlohajner/terminal-idle) | *Shell / C*
 **Monitors inactivity across open TTY sessions and spawns visual screensavers like `cmatrix`, `asciiquarium`, `cbonsai` or `chafa`.**
 * **Template:** Illustrates process-level terminal state tracking, session monitoring, and system signal handling inside Linux environments.
 
