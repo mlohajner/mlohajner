@@ -1,10 +1,13 @@
 ## Hi there 👋
-
 # Mario Lohajner (manjo) 🚀
 
-Hi! I am Mario Lohajner, a system-focused developer and automation enthusiast from Croatia. I design minimalist, high-performance software and tools that integrate seamlessly with the Linux ecosystem. 
+Building simple, single-purpose Linux tools and using Bash as the architectural glue.
 
-This GitHub profile is not a static CV—it is a curated collection of **architectural templates** for specific classes of applications. Every repository hosted here solves a concrete problem while serving as a blueprint for clean implementation patterns, minimalist dependencies, and optimal resource management.
+---
+
+Hi! I am Mario Lohajner, a developer from Croatia focused on writing minimalist, low-dependency code and utilities that fit naturally into the Linux ecosystem. 
+
+This GitHub profile functions as a practical collection of **architectural templates** for specific classes of applications. Every core repository here solves a concrete problem while serving as a blueprint for clean implementation patterns, minimalist dependencies, and optimal resource management.
 
 ---
 
@@ -20,15 +23,19 @@ For me, **Bash** is not just a command prompt or a simple terminal handler—it 
 
 ## 📦 Featured Templates & Tools (Portfolio)
 
-Instead of generic descriptions, here is how these repositories function as reference architectures and living templates:
+The following repositories are original tools designed to function as reference architectures and living templates:
+
+### 📐 [gtk-ruler](https://github.com) | *C / GTK*
+* **The Core:** A lightweight screen ruler utility for pixel-perfect desktop measurements.
+* **The Template:** A clean reference for minimal GTK application development in C, avoiding heavy modern desktop frameworks while maintaining precise screen coordinate rendering.
+
+### 🖼️ [CSplash](https://github.com) | *C*
+* **The Core:** An ultra-fast, lightweight splash screen utility written in pure C.
+* **The Template:** Demonstrates low-level window creation and image rendering without relying on standard desktop environments or heavy toolkit abstractions.
 
 ### 📡 [WiFi-spectrum](https://github.com) | *Python 3*
 * **The Core:** A visual WiFi spectrum analyzer that goes far beyond a basic list of network SSIDs.
 * **The Template:** Demonstrates how to ingest raw system/network metadata and transform it into low-latency, real-time graphical data within Python.
-
-### 💾 [RRALLOC](https://github.com) | *C*
-* **The Core:** Introduces a round-robin allocation policy as a native disk mount option to rotate the starting block group for new allocations.
-* **The Template:** A reference for low-level filesystem modification, kernel/OS data structure manipulation, and performance tuning under concurrent load.
 
 ### 📊 [nemo_progress_dialogue](https://github.com) | *C*
 * **The Core:** Enhances the Nemo file manager copy dialogue with an integrated live transfer speed and bandwidth graph.
@@ -48,6 +55,15 @@ Instead of generic descriptions, here is how these repositories function as refe
 
 ---
 
+## 🔬 Upstream & Experimental Contributions
+
+*This section includes upstream work, kernel experimentation, or patches rather than standalone template utilities:*
+
+### 💾 [RRALLOC](https://github.com) | *C*
+* **Overview:** A repository implementing support for the round-robin allocation policy as a native disk mount option. It focuses on rotating the starting block group for new filesystem allocations to experiment with alternative I/O distribution policies.
+
+---
+
 ## ⚡ Core Tech Stack
 
 * **Languages:** C, Python 3, Bash / Shell (POSIX standards)
@@ -58,3 +74,4 @@ Instead of generic descriptions, here is how these repositories function as refe
 
 ### 📫 Let's Connect:
 * **LinkedIn:** [mario-lohajner-93aa1b21](https://linkedin.com)
+
