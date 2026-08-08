@@ -1,3 +1,5 @@
+<img src="./background.jpg" alt="Banner" width="100%" />
+
 # 🚀 Building simple, single-purpose Linux tools...
 
 Hi! I am Mario Lohajner (manjo), a developer from Croatia focused on writing minimalist, low-dependency code and utilities that fit naturally into the Linux ecosystem. 
