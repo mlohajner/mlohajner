@@ -57,7 +57,7 @@ The following repositories are original tools designed to function as reference 
 
 *This section includes upstream work, kernel experimentation, or patches rather than standalone template utilities:*
 
-### 💾 [RRALLOC](https://github.com) | *C*
+### 💾 [RRALLOC](https://github.com) | *C / Linux Kernel 7.1.4*
 * **Overview:** A repository implementing support for the round-robin allocation policy as a native disk mount option. It focuses on rotating the starting block group for new filesystem allocations to experiment with alternative I/O distribution policies.
 
 ---
