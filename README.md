@@ -1,6 +1,6 @@
 # 🚀 Building simple, single-purpose Linux tools...
 
-Hi! I am Mario Lohajner, a developer from Croatia focused on writing minimalist, low-dependency code and utilities that fit naturally into the Linux ecosystem. 
+Hi! I am Mario Lohajner (manjo), a developer from Croatia focused on writing minimalist, low-dependency code and utilities that fit naturally into the Linux ecosystem. 
 
 This GitHub profile functions as a practical collection of **architectural templates** for specific classes of applications. Every core repository here solves a concrete problem while serving as a blueprint for clean implementation patterns, minimalist dependencies, and optimal resource management.
 
