@@ -1,9 +1,4 @@
-## Hi there 👋
-# Mario Lohajner (manjo) 🚀
-
-Building simple, single-purpose Linux tools and using Bash as the architectural glue.
-
----
+# 🚀 Building simple, single-purpose Linux tools and using Bash as the architectural glue.
 
 Hi! I am Mario Lohajner, a developer from Croatia focused on writing minimalist, low-dependency code and utilities that fit naturally into the Linux ecosystem. 
 
