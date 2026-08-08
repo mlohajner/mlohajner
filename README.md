@@ -18,7 +18,7 @@ For me, **Bash** is not just a command prompt or a simple terminal handler - it 
 
 ---
 
-## 📦 Featured Templates & Tools (Samples included...)
+## 📦 Featured Templates & Tools
 
 The following repositories are original tools designed to function as reference architectures and living templates:
 
