@@ -14,7 +14,7 @@ My development approach is fundamentally rooted in **UNIX thinking** and the str
 
 Instead of rewriting complex wheels or building bloated, heavy monoliths, the real engineering challenge lies in efficiency. True innovation comes from **maximizing the utility of existing system tools** and connecting them in novel, highly useful ways. 
 
-For me, **Bash** is not just a command prompt or a simple terminal handler—it is a robust orchestration and automation platform. The shell scripts found in my repositories serve as the ultimate **architectural glue**, proving that you can achieve absolute system control, determinism, and flawless error handling with zero unnecessary overhead.
+For me, **Bash** is not just a command prompt or a simple terminal handler - it is a robust orchestration and automation platform. The shell scripts found in my repositories serve as **architectural glue**, proving that you can achieve absolute system control, determinism, and flawless error handling with zero unnecessary overhead.
 
 ---
 
