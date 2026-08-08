@@ -21,34 +21,34 @@ For me, **Bash** is not just a command prompt or a simple terminal handler—it 
 The following repositories are original tools designed to function as reference architectures and living templates:
 
 ### 📐 [gtk-ruler](https://github.com) | *C / GTK*
-* **A lightweight screen ruler utility for pixel-perfect desktop measurements.**
+**A lightweight screen ruler utility for pixel-perfect desktop measurements.**
 * **Platform:** GTK + C (meson + ninja build system) + Cambalache
 * **Template:** A clean reference for minimal GTK application development in C, avoiding heavy modern desktop frameworks while maintaining precise screen coordinate rendering.
 
 ### 🖼️ [CSplash](https://github.com) | *Shell / Chafa*
-* **An ANSI/ASCII terminal splash screen utility that brings back the retro CRT/BBS welcoming feel whenever you open a terminal.**
+**An ANSI/ASCII terminal splash screen utility that brings back the retro CRT/BBS welcoming feel whenever you open a terminal.**
 * **Template:** A perfect demonstration of using Bash as "glue" - maximizing the utility of an existing specialized tool (`chafa`) to build a high-impact terminal extension with zero framework overhead.
 
 ### 📡 [WiFi-spectrum](https://github.com) | *Python 3*
-* **A visual WiFi spectrum analyzer that goes far beyond a basic list of network SSIDs.**
+**A visual WiFi spectrum analyzer that goes far beyond a basic list of network SSIDs.**
 * **Platform:** GTK + Pyhton + WebKit (HTML + CSS for UI/UX with absolute customizability) = no Electron, no heavy frameworks...
 * **Template:** Demonstrates how to ingest raw system/network metadata and transform it into low-latency, real-time graphical data within Python.
 
 ### 📊 [nemo_progress_dialogue](https://github.com) | *C*
-* **Enhances the Nemo file manager copy dialogue with an integrated live transfer speed and bandwidth graph.**
+**Enhances the Nemo file manager copy dialogue with an integrated live transfer speed and bandwidth graph.**
 * **Platform:** GTK + C (meson+ninja)
 * **Template:** Shows how to extend existing Linux desktop environments natively using C while managing asynchronous UI components and active I/O monitoring.
 
 ### 📝 [md-view](https://github.com) | *Shell*
-* **A local Markdown viewer for Linux with zero Electron, zero servers, and no bloated dependencies - just: Pandoc, Bash, and a browser.**
+**A local Markdown viewer for Linux with zero Electron, zero servers, and no bloated dependencies - just: Pandoc, Bash, and a browser.**
 * **Template:** Ultra-lightweight desktop tooling, utilizing Bash as the structural glue to pipeline native system packages.
 
 ### 🖥️ [terminal-idle](https://github.com) | *C*
-* **Monitors inactivity across open TTY sessions and spawns visual screensavers like `cmatrix`, `asciiquarium`, `cbonsai` or `chafa`.**
+**Monitors inactivity across open TTY sessions and spawns visual screensavers like `cmatrix`, `asciiquarium`, `cbonsai` or `chafa`.**
 * **Template:** Illustrates process-level terminal state tracking, session monitoring, and system signal handling inside Linux environments.
 
 ### 🔄 [AFST (Analytic File Sync Tool)](https://github.com) | *Shell*
-* **A dedicated file synchronization/archiver powered by shell automation and analytics.**
+**A dedicated file synchronization/archiver powered by shell automation and analytics.**
 * **Template:** A blueprint for robust file system automation, precise error trapping in shell, and deterministic remote/local resource sync.
 
 ---
