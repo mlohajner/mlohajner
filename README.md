@@ -44,6 +44,10 @@ The following repositories are original tools designed to function as reference 
 **A dedicated file synchronization/archiver powered by shell automation and analytics.**
 * **Template:** A blueprint for robust file system automation, precise error trapping in shell, and deterministic remote/local resource sync.
 
+### 📝 [md-view](https://github.com/mlohajner/md-view) | *Shell*
+**A local Markdown viewer for Linux with zero Electron, zero servers, and no bloated dependencies - just: Pandoc, Bash, and a browser.**
+* **Template:** Ultra-lightweight desktop tooling, utilizing Bash as the structural glue to pipeline native system packages.
+
 ### 📊 [nemo_progress_dialogue](https://github.com/mlohajner/nemo_progress_dialogue) | *C*
 **Enhances the Nemo file manager copy dialogue with an integrated live transfer speed and bandwidth graph.**
 * **Platform:** GTK + C (meson+ninja)
@@ -55,10 +59,6 @@ The following repositories are original tools designed to function as reference 
 ### 🖼️ [nemo_toggle_desktop_icons](https://github.com/mlohajner/nemo_toggle_desktop_icons) | *C*
 **This project adds a proper way to show/hide desktop icons in nemo-desktop while keeping the desktop itself alive and usable.**
 * **Platform:** GTK + C (meson+ninja)
-
-### 📝 [md-view](https://github.com/mlohajner/md-view) | *Shell*
-**A local Markdown viewer for Linux with zero Electron, zero servers, and no bloated dependencies - just: Pandoc, Bash, and a browser.**
-* **Template:** Ultra-lightweight desktop tooling, utilizing Bash as the structural glue to pipeline native system packages.
 
 ---
 
