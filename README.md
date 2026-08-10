@@ -36,15 +36,6 @@ The following repositories are original tools designed to function as reference 
 * **Platform:** GTK + Pyhton + WebKit (HTML + CSS for UI/UX with absolute customizability) = no Electron, no heavy frameworks...
 * **Template:** Demonstrates how to ingest raw system/network metadata and transform it into low-latency, real-time graphical data within Python.
 
-### 📊 [nemo_progress_dialogue](https://github.com/mlohajner/nemo_progress_dialogue) | *C*
-**Enhances the Nemo file manager copy dialogue with an integrated live transfer speed and bandwidth graph.**
-* **Platform:** GTK + C (meson+ninja)
-* **Template:** Shows how to extend existing Linux desktop environments natively using C while managing asynchronous UI components and active I/O monitoring.
-
-### 📝 [md-view](https://github.com/mlohajner/md-view) | *Shell*
-**A local Markdown viewer for Linux with zero Electron, zero servers, and no bloated dependencies - just: Pandoc, Bash, and a browser.**
-* **Template:** Ultra-lightweight desktop tooling, utilizing Bash as the structural glue to pipeline native system packages.
-
 ### 🖥️ [terminal-idle](https://github.com/mlohajner/terminal-idle) | *Shell / C*
 **Monitors inactivity across open TTY sessions and spawns visual screensavers like `cmatrix`, `asciiquarium`, `cbonsai` or `chafa`.**
 * **Template:** Illustrates process-level terminal state tracking, session monitoring, and system signal handling inside Linux environments.
@@ -52,6 +43,22 @@ The following repositories are original tools designed to function as reference 
 ### 🔄 [AFST (Analytic File Sync Tool)](https://github.com/mlohajner/AFST) | *Shell*
 **A dedicated file synchronization/archiver powered by shell automation and analytics.**
 * **Template:** A blueprint for robust file system automation, precise error trapping in shell, and deterministic remote/local resource sync.
+
+### 📊 [nemo_progress_dialogue](https://github.com/mlohajner/nemo_progress_dialogue) | *C*
+**Enhances the Nemo file manager copy dialogue with an integrated live transfer speed and bandwidth graph.**
+* **Platform:** GTK + C (meson+ninja)
+
+### 🖼️ [nemo_gallery_patch](https://github.com/mlohajner/nemo_gallery_patch) | *C*
+**Turn Nemo's Icon View into a Gallery View.**
+* **Platform:** GTK + C (meson+ninja)
+
+### 🖼️ [nemo_toggle_desktop_icons](https://github.com/mlohajner/nemo_toggle_desktop_icons) | *C*
+**This project adds a proper way to show/hide desktop icons in nemo-desktop while keeping the desktop itself alive and usable.**
+* **Platform:** GTK + C (meson+ninja)
+
+### 📝 [md-view](https://github.com/mlohajner/md-view) | *Shell*
+**A local Markdown viewer for Linux with zero Electron, zero servers, and no bloated dependencies - just: Pandoc, Bash, and a browser.**
+* **Template:** Ultra-lightweight desktop tooling, utilizing Bash as the structural glue to pipeline native system packages.
 
 ---
 
