@@ -73,8 +73,8 @@ The following repositories are original tools designed to function as reference 
 
 ## ⚡ Core Tech Stack
 
-* **Languages:** C, Python 3, Bash / Shell (POSIX standards)
-* **Domains:** Linux Internals, System Automation, Performance Engineering, Lightweight Tooling
+* **Languages:** C, Python 3, Bash / Shell (POSIX standards)...
+* **Domains:** Linux Internals, System Automation, Performance Engineering, Lightweight Tooling...
 * **Target Platforms:** Linux / UNIX-like environments
 
 
