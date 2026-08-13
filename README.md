@@ -40,7 +40,7 @@ The following repositories are original tools designed to function as reference 
 **Monitors inactivity across open TTY sessions and spawns visual screensavers like `cmatrix`, `asciiquarium`, `cbonsai` or `chafa`.**
 * **Template:** Illustrates process-level terminal state tracking, session monitoring, and system signal handling inside Linux environments.
 
-### 🔄 [AFST (Analytic File Sync Tool)](https://github.com/mlohajner/AFST) | *Shell*
+### 🔄 [AFST](https://github.com/mlohajner/AFST) & [AFST2](https://github.com/mlohajner/AFST/tree/main/afst2) (Analytic File Sync Tool) | *Shell*
 **A dedicated file synchronization/archiver powered by shell automation and analytics.**
 * **Template:** A blueprint for robust file system automation, precise error trapping in shell, and deterministic remote/local resource sync.
 
