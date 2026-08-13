@@ -10,7 +10,7 @@ This GitHub profile functions as a practical collection of **architectural templ
 
 ## 🛠️ The Philosophy: UNIX Thinking & The Bash Glue
 
-My development approach is fundamentally rooted in **UNIX thinking** and the strict **KISS (Keep It Simple, Stupid)** principle. I believe software should consist of simple, specialized tools that do one thing and do it exceptionally well. 
+My development approach is fundamentally rooted in **GNU thinking** and the strict **KISS (Keep It Simple, Stupid)** principle. I believe software should consist of simple, specialized tools that do one thing and do it exceptionally well. 
 
 Instead of rewriting complex wheels or building bloated, heavy monoliths, the real engineering challenge lies in efficiency. True innovation comes from **maximizing the utility of existing system tools** and connecting them in novel, highly useful ways. 
 
