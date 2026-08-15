@@ -57,7 +57,7 @@ The following repositories are original tools designed to function as reference 
 * **Platform:** GTK + C (meson+ninja)
 
 ### 🗄️ [nemo_archive_manager](https://github.com/mlohajner/nemo_archive_manager) | *Shell / C*
-**Mounts archive files (zip, rar, 7z, iso, etc.) as read-write filesystems and opens them directly in Nemo**
+**Mounts archive files (zip, rar, 7z, iso, etc.) as read-write filesystems and opens them directly in Nemo**  
 Ships a custom **`--self <path>`** patch for Nemo. Instead of spawning a new window every time an archive gets mounted, `--self` navigates the *existing Nemo window* in-place to the new mount point. No window or tab pile-up, just a clean, desktop-integrated experience.
 * **Platform:** Shell (mount automation) + a custom Nemo patch (meson+ninja)
 
